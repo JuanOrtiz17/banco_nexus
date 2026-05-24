@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mongodb": "^7.2.0"
+  },
+  "name": "banco-nexus-etapa3",
+  "version": "1.0.0",
+  "description": "Práctica colaborativa de **Bases de Datos Distribuidas** usando MongoDB, Node.js + Express y React.",
+  "main": "crearBaseDeDatos.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
